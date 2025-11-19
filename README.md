@@ -15,7 +15,7 @@
     Precautions: In the data preprocessing stage, drug and target pre training models are unable to handle certain drug SMILES and protein sequences, so it is necessary to eliminate these unavailable samples and only retain valid drug SMILES and protein sequences.
 
 ###model :
-![](img/MCEPDTI.png)
+![](./img/MCEPDTI.png)
 
 ###requirements :
     python    = 3.8
